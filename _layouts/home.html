@@ -4,7 +4,13 @@
     <body>
         {%- include header.html -%}
         <div class="home">
-            <img src="/assets/forest.jpg" alt="Forest background" class="home-header-image">
+            <div class="home-header">
+                <img src="/assets/forest.jpg" alt="Forest background" class="home-header-image">
+                <div class="home-header-text">
+                    <div class="home-header-title">Extending the Inherited</div>
+                    <div class="home-header-subtitle">A personal blog, mostly technical.</div>
+                </div>
+            </div>
 
             <main class="page-content" aria-label="Content">
             <div class="wrapper">
@@ -16,19 +22,17 @@
 
 
             {%- if posts.size > 0 -%}
-                {%- if page.list_title -%}
-                <h2 class="post-list-heading">{{ page.list_title }}</h2>
-                {%- endif -%}
+                <h2 class="post-list-heading">Posts</h2>
                 <ul class="post-list">
                 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                 {%- for post in posts -%}
                 <li>
                     <span class="post-meta">{{ post.date | date: date_format }}</span>
-                    <h3>
+                    <h2>
                     <a class="post-link" href="{{ post.url | relative_url }}">
                         {{ post.title | escape }}
                     </a>
-                    </h3>
+                    </h2>
                     {%- if site.show_excerpts -%}
                     {{ post.excerpt }}
                     {%- endif -%}

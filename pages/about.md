@@ -15,9 +15,9 @@ Outside software, I find inspiration from:
 - People who are resilient, joyful, wise and competent. 
     - too many to name.. 
 
-This site is an continuation of the blog [here][wordpress_site]. I started it as a way to keep notes for myself and to share them with others who might find them useful. 
+This site is a continuation of the blog [here][wordpress_site]. I started it as a way to keep notes for myself and to share them with others who might find them useful. 
 
-Everything I wrote was an extension to or a composition of things that I learnt from others (via stack overflow, documentations, blogs, in person). Although I had added references and mentioned the people as much as possible, there still were many who had contributed; therefore the name of this site, "Extending the Inherited". Just like in OOP.
+Everything I wrote was an extension to or a composition of things that I learnt from others (via stack overflow, documentations, blogs, in person); therefore the name of this site, "Extending the Inherited". Just like in OOP.
 
 [wordpress_site]: https://extendingtheinherited.wordpress.com/
 

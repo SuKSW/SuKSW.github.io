@@ -9,7 +9,7 @@ There was a time that I actually thought that working hard was everything. The h
 
 I have seen the phrases “looking at the big picture” and “paying attention to the details” a couple of times. I believe that it is important to know the details to see a proper bigger picture. Since I have met quite a few who can actually do so, I too am hoping to become one of them one day.
 
-Speaking of the weird days I mentioned above, I was an “into the details” person. I did question the choices, but I did not pay attention to the final output or whether the path taken was worth it. I would not blame myself because I was provided with a track to follow for thirteen years and then another wider track with more branches for four more years (referring to the thirteen years at school and the four years at university). 
+Speaking of the weird days I mentioned above, I was an “into the details” person. I did question the choices, but I did not pay attention to the final output or whether the path taken was worth it. I do not blame myself because I was provided with a track to follow for thirteen years, and then another wider track with more branches for four more years (referring to the thirteen years at school and the four years at university). 
 
 Now being able to see a bigger picture than I saw before, I know that I am just a tiny element of a much bigger system. I am aware that I do not own and have control on everything. To be precise following are some of the things I am aware of.
  
@@ -21,6 +21,6 @@ Now being able to see a bigger picture than I saw before, I know that I am just 
 
 - There are thoughts and ideas that just appear, without me being involved.
 
-These points does not mean that I am planning to delegate the responsibility of my actions to some other party. Rather it is me realizing the capacity of each human, and that none of us can completely know what we are capable of. Also, that we do not get to take the credit alone, even if we achieve something solely by ourselves, because we did not create the ourselves in the first place. Here, ourselves means living beings with an immune system, a digestion system, a system that can scan the surrounding using electromagnetic waves (eyes I mean), and many others; even if we completely leave out the brain.
+These points does not mean that I am planning to delegate the responsibility of my actions to some other party. Rather it is me realizing the capacity of each human, and that none of us can completely know what we are capable of. Also, that we do not get to take the credit alone, even if we achieve something solely by ourselves, because we did not create "ourselves" in the first place. Here, "ourselves" means living beings, with an immune system, a digestive system, a system that can scan the surrounding using electromagnetic waves (eyes I mean), and many more; even if we completely leave out the brain.
 
 As far as I understand, all I can do is take care of these systems properly and train them to become better, so that I will end up being a person who can help others do the same.
